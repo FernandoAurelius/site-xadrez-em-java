@@ -85,7 +85,7 @@ main {
     color: #bd93f9;
 }
 
-#conclusion {
+.conclusion {
     text-align: center;
 }
 
@@ -151,5 +151,5 @@ footer a {
 }
 
 #logo-cemic {
-    float: right;
+    align-content: center;
 }
