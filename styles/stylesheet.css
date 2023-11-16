@@ -70,3 +70,36 @@ main {
 .hero nav a:hover {
     background-color: rgba(0, 0, 0, .4);
 }
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mapeamento {
+    color: #ff79c6; /* Cor do link rosa */
+}
+
+#mapeamento:hover {
+    color: #bd93f9;
+}
+
+article {
+    background-color: rgb(65, 65, 65);
+    padding: 16px;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+
+article h2 {
+    border-bottom: 2px solid rgb(164, 164, 164);
+    background-color: #21222C;
+    padding: 10px;
+    margin-top: 0;
+    text-align: center;
+}
+
+article p {
+    letter-spacing: 1px;
+}
