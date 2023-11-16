@@ -103,3 +103,20 @@ article h2 {
 article p {
     letter-spacing: 1px;
 }
+
+a.btn {
+    color: #ff79c6;
+    background-color: #21222C;
+    display: block;
+    padding: 12px 16px;
+    border-radius: 16px;
+    text-decoration: wavy;
+    margin: auto;
+    width: 100px;
+    width: fit-content;
+    margin-top: 5px;
+}
+
+a:hover.btn {
+    color: #bd93f9;
+}
