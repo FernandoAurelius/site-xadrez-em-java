@@ -137,6 +137,15 @@ footer {
 }
 
 footer a {
+    color: #ff79c6;
+    text-decoration: wavy;
+}
+
+footer a:hover {
+    color: #bd93f9
+}
+
+.footer-link {
     color: white;
     background-color: #21222C;
     display: block;
