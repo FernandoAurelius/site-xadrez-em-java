@@ -44,3 +44,29 @@ main {
     padding: 16px;
     border-bottom: 2px solid;
 }
+
+.hero nav ul {
+    margin: 20px 50px 0 0;
+    text-align: center;
+}
+
+.hero nav li {
+    display: inline-block;
+    list-style-type: none;
+    border: 1px solid white;
+}
+
+.hero nav a {
+    background: rgba(0, 0, 0, .7);
+    padding: 16px;
+    display: block;
+    text-decoration: none;
+    color: #a54cf8;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.hero nav a:hover {
+    background-color: rgba(0, 0, 0, .4);
+}
